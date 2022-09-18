@@ -18,10 +18,10 @@
   <img align= "center" alt="junior-sql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align= "center" alt="junior-intellij" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   <img align= "center" alt="junior-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="junior-gif" src="https://github.com/junior-zip/junior-zip/issues/1#issue-1377100115>  
+  <img align="right" alt="junior-gif" src="https://cdn.discordapp.com/attachments/707398461590601851/1021105904176861265/slamdunk12090.gif">  
 </div>
 
-
+<p>
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-          
+        
          
           
                 
