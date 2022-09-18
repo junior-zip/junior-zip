@@ -18,7 +18,7 @@
 <img align= "center" alt="junior-intellij" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
 <img align= "center" alt="junior-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-
+<img align= "right" alt="junior-slamdunk" heigth="90" width="120" src="![slamdunk12090](https://user-images.githubusercontent.com/79885334/190915706-d894d0a4-8d51-489d-ab7b-c43dbd4cef56.gif)" />
 
 ##
 
