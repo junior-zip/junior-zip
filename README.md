@@ -6,9 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-zip&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
+
 ##
-
-
 <div style="display: inline_block"><br> 
   <img align= "center" alt="junior-css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align= "center" alt="junior-html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -19,9 +19,12 @@
   <img align= "center" alt="junior-intellij" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   <img align= "center" alt="junior-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="right" alt="junior-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/707398461590601851/1021105904176861265/slamdunk12090.gif>
+  
+  ##
 </div>
 
 ##
+
 
 <div>
   <a href="https://instagram.com/junior.zip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
