@@ -1,4 +1,4 @@
-### Olá! Junior aqui. 
+### Olá. Junior aqui. 
 
 <div align="center">
   <a href="https://github.com/junior-zip">
