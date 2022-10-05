@@ -1,5 +1,4 @@
-### Olá. Junior aqui. 
-
+### Olá! Junior aqui. 
 <div align="center">
   <a href="https://github.com/junior-zip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior-zip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +18,6 @@
   <img align= "center" alt="junior-intellij" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   <img align= "center" alt="junior-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align= "center" alt="junior-vscode"heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />        
-  <img align="right" alt="junior-gif" src="https://cdn.discordapp.com/attachments/707398461590601851/1021105904176861265/slamdunk12090.gif">
   <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/707398461590601851/1021105904176861265/slamdunk12090.gif" height="150">
 </div>
 
