@@ -24,7 +24,13 @@
   <img align= "center" alt="junior-sql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align= "center" alt="junior-intellij" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   <img align= "center" alt="junior-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align= "center" alt="junior-vscode"heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />        
+  <img align= "center" alt="junior-vscode"heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align= "center" alt="tomcat"heigth="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
+  
+  
+          
+          
+          
   <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/707398461590601851/1021105904176861265/slamdunk12090.gif" height="150">
 </div>
 
