@@ -30,20 +30,11 @@
   <img align= "center" alt="junior-intellij" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   <img align= "center" alt="git"heigth="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  
-     
-          
 
-          
-            
-          
-          
-  <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/707398461590601851/1021105904176861265/slamdunk12090.gif" height="150">
+
+ <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/532009897257074688/1133435836558495805/imagem2.gif" height="150">
 </div>
-
 <p>
-
-
 
 
 ##
@@ -52,12 +43,5 @@
   <a href="https://www.linkedin.com/in/junior-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
-
-
-        
-         
-          
                 
 ![Snake animation](https://github.com/junior-zip/junior-zip/blob/output/github-contribution-grid-snake.svg)
