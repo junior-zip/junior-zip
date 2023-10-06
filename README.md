@@ -45,4 +45,4 @@
 </div>
 
                 
-![Snake animation](https://github.com/junior-zip/junior-zip/blob/output/github-contribution-grid-snake.svg)
+
