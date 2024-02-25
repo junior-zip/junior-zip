@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/junior-zip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior-zip&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-zip&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-zip&hide_progress=true&theme=dracula"/>
 </div>
 
 
