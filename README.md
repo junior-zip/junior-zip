@@ -4,34 +4,33 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F74322&width=435&lines=Ol%C3%A1.+Junior+aqui!;Seja+bem-vindo!" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<div align="rigth">
   <a href="https://github.com/junior-zip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior-zip&show_icons=true&theme=dracula"/>
+        
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-zip&layout=compact&theme=dracula"/>
 </div>
-
 
 ##
 <div style="display: inline_block"><br> 
 
-          
-        
   <img align= "center" alt="junior-js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align= "center" alt="junior-ts" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align= "center" alt="junior-node" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align= "center" alt="junior-nest" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>  
+  <img align= "center" alt="junior-prisma" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>         
   <img align= "center" alt="junior-express" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-  <img align= "center" alt="junior-tableau" heigth="30" width="40" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
+  <img align= "center" alt="junior-jest" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img align= "center" alt="junior-mongo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align= "center" alt="junior-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align= "center" alt="junior-pandas" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align= "center" alt="junior-postgresql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align= "center" alt="junior-tableau" heigth="30" width="40" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
   <img align= "center" alt="junior-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align= "center" alt="junior-npm" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> 
-  <img align= "center" alt="junior-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align= "center" alt="junior-spring" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-
-
-
+    <img align= "center" alt="junior-aws" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+      <img align= "center" alt="junior-jira" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />           
+          <img align= "center" alt="junior-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />           
+          
  <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/532009897257074688/1133435836558495805/imagem2.gif" height="150">
 </div>
 <p>
