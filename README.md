@@ -1,14 +1,33 @@
 
 
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F74322&width=435&lines=Ol%C3%A1.+Junior+aqui!;Seja+bem-vindo!" alt="Typing SVG" /></a>
-</div>
+## Data Engineer / Developer
 
-<div align="rigth">
-  <a href="https://github.com/junior-zip">
-        
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-zip&layout=compact&theme=dracula"/>
-</div>
+```typescript
+const aboutMe = {
+  work: "Data Engineer at Quero Delivery",
+  study: "Information Systems at IF Sergipe - Lagarto Campus",
+  learning: ["Data Engineering", "Back-end Development", "Design Patterns", "AWS"],
+  curiousAbout: ["Docker", "Apache Kafka"],
+  funFact: "I've already made a DELETE without a WHERE... it happens :O",
+  hobbies: ["Comic books", "Star Wars"]
+};
+```
+```typescript
+const stack = {
+  dataEngineering: {
+    languagesAndFrameworks: ["JavaScript", "Node.js", "Python"],
+    databases: ["MongoDB", "MySQL"],
+    dataVisualization: ["Tableau", "Excel"]
+  },
+  backendDevelopment: {
+    languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS"],
+    orm: ["Prisma", "TypeORM"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    testing: ["JEST"]
+  }
+};
+
+```
 
 ##
 <div style="display: inline_block"><br> 
