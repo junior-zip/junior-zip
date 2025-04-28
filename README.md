@@ -7,7 +7,7 @@ const aboutMe = {
   work: "Data Engineer at Quero Delivery",
   study: "Information Systems at IF Sergipe - Lagarto Campus",
   learning: ["Data Engineering", "Back-end Development", "Design Patterns", "AWS"],
-  curiousAbout: ["Docker", "Apache Kafka"],
+  curiousAbout: ["Docker", "Apache Kafka", "Redis"],
   funFact: "I've already made a DELETE without a WHERE... it happens :O",
   hobbies: ["Comic books", "Star Wars"]
 };
