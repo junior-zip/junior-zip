@@ -24,7 +24,8 @@ const stack = {
     languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS"],
     orm: ["Prisma", "TypeORM"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    testing: ["JEST"]
+    testing: ["JEST"],
+    technologies: ["Docker"]
   }
 };
 
@@ -47,9 +48,12 @@ const stack = {
   <img align= "center" alt="junior-tableau" heigth="30" width="40" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
   <img align= "center" alt="junior-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align= "center" alt="junior-npm" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> 
-    <img align= "center" alt="junior-aws" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+    <img align= "center" alt="junior-aws" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+     <img align= "center" alt="junior-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
       <img align= "center" alt="junior-jira" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />           
-          <img align= "center" alt="junior-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />           
+          <img align= "center" alt="junior-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+             
+          
           
  <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/532009897257074688/1133435836558495805/imagem2.gif" height="150">
 </div>
