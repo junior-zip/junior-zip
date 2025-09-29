@@ -1,15 +1,15 @@
 
-## Data Engineer / Developer
+## Backend Engineer | Data Engineer
 
 
 ```typescript
 const aboutMe = {
-  work: "Data Engineer at Quero Delivery",
+  work: "Backend Engineer | Data Engineer",
   study: "Information Systems at IF Sergipe - Lagarto Campus",
   learning: ["Data Engineering", "Back-end Development", "Design Patterns", "AWS"],
   curiousAbout: ["Docker", "Apache Kafka", "Redis"],
   funFact: "I've already made a DELETE without a WHERE... it happens :O",
-  hobbies: ["Comic books", "Star Wars"]
+  hobbies: ["Comic books", "Star Wars", "Runnig in my time"]
 };
 ```
 ```typescript
@@ -17,14 +17,16 @@ const stack = {
   dataEngineering: {
     languagesAndFrameworks: ["JavaScript", "Node.js", "Python"],
     databases: ["MongoDB", "MySQL"],
-    dataVisualization: ["Tableau", "Excel"]
+    dataVisualization: ["Tableau", "Excel"],
+    cloudComputing: ['AWS'],
   },
   backendDevelopment: {
     languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS"],
     orm: ["Prisma", "TypeORM"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
     testing: ["JEST"],
-    technologies: ["Docker"]
+    technologies: ["Docker"],
+    cloudComputing: ['AWS', 'ORACLE'],
   }
 };
 
