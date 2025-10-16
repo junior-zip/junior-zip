@@ -15,7 +15,7 @@ const aboutMe = {
 ```typescript
 const stack = {
   dataEngineering: {
-    languagesAndFrameworks: ["JavaScript", "Node.js", "Python"],
+    languagesAndFrameworks: ["JavaScript", "Node.js", "Python", "Java],
     databases: ["MongoDB", "MySQL"],
     dataVisualization: ["Tableau", "Excel"],
     cloudComputing: ['AWS'],
