@@ -1,5 +1,5 @@
 
-## Backend Engineer | Data Engineer
+## Backend Engineer
 
 
 ```typescript
@@ -13,13 +13,6 @@ const aboutMe = {
 };
 ```
 ```typescript
-const stack = {
-  dataEngineering: {
-    languagesAndFrameworks: ["JavaScript", "Node.js", "Python", "Java"],
-    databases: ["MongoDB", "MySQL"],
-    dataVisualization: ["Tableau", "Excel"],
-    cloudComputing: ['AWS'],
-  },
   backendDevelopment: {
     languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS"],
     orm: ["Prisma", "TypeORM"],
