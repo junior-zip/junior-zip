@@ -9,7 +9,7 @@ const aboutMe = {
   learning: ["Data Engineering", "Back-end Development", "Design Patterns", "AWS"],
   curiousAbout: ["Docker", "Apache Kafka", "Redis"],
   funFact: "I've already made a DELETE without a WHERE... it happens :O",
-  hobbies: ["Comic books", "Star Wars", "Runnig in my time"]
+  hobbies: ["Comic books", "Star Wars", "Run in my free time"]
 };
 ```
 ```typescript
