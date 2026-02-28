@@ -7,20 +7,19 @@ const aboutMe = {
   work: "Backend Engineer | Data Engineer",
   study: "Information Systems at IF Sergipe - Lagarto Campus",
   learning: ["Data Engineering", "Back-end Development", "Design Patterns", "AWS"],
-  curiousAbout: ["Docker", "Apache Kafka", "Redis"],
+  curiousAbout: ["Apache Kafka", "Redis"],
   funFact: "I've already made a DELETE without a WHERE... it happens :O",
   hobbies: ["Comic books", "Star Wars", "Run in my free time"]
 };
 ```
 ```typescript
   backendDevelopment: {
-    languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS"],
-    orm: ["Prisma", "TypeORM"],
+    languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS", "Java", "Spring Boot"],
+    orm: ["Prisma", "TypeORM", "JPA"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    testing: ["JEST"],
+    testing: ["JEST", "Mockito"],
     technologies: ["Docker"],
-    cloudComputing: ['AWS', 'ORACLE'],
-  }
+    cloudComputing: ['AWS', 'ORACLE'],  }
 };
 
 ```
