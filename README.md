@@ -17,7 +17,7 @@ const aboutMe = {
     languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS", "Java", "Spring Boot"],
     orm: ["Prisma", "TypeORM", "JPA"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    testing: ["JEST", "Mockito"],
+    testing: ["JUnit", "Mockito", "Jest"],
     technologies: ["Docker"],
     cloudComputing: ['AWS', 'ORACLE'],  }
 };
