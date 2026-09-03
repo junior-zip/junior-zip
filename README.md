@@ -57,7 +57,8 @@ const aboutMe = {
 
 ##
 <div>
-  <a href="https://www.linkedin.com/in/junior-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/junior-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.npmjs.com/~junior.zip" target="_blank"><img src="https://shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
 </div>
 
                 
