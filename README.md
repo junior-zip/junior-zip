@@ -1,7 +1,6 @@
 
 ## Backend Engineer
 
-
 ```typescript
 const aboutMe = {
   work: "Backend Engineer | Data Engineer",
