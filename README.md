@@ -12,7 +12,7 @@ const aboutMe = {
 };
 ```
 ```typescript
-  backendDevelopment: {
+  backendDevelopment = {
     languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS", "Java", "Spring Boot"],
     ORM/QB: ["Prisma", "TypeORM", "JPA","Beiju"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
