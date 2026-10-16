@@ -15,7 +15,7 @@ const aboutMe = {
   backendDevelopment = {
     languagesAndFrameworks: ["Node.js", "TypeScript", "NestJS", "Java", "Spring Boot"],
     ORM/QB: ["Prisma", "TypeORM", "JPA","Beiju"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "RDS"],
     testing: ["JUnit", "Mockito", "Vitest"],
     technologies: ["Docker", "Kubernetes", "Grafana", "RabbitMQ"],
     cloudComputing: ['AWS']
