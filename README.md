@@ -18,7 +18,7 @@ const aboutMe = {
     databases: ["MySQL", "PostgreSQL", "MongoDB", "RDS"],
     testing: ["JUnit", "Mockito", "Vitest"],
     technologies: ["Docker", "Kubernetes", "Grafana", "RabbitMQ"],
-    cloudComputing: ['AWS']
+    cloudComputing: ['AWS', 'AZURE']
 };
 
 
