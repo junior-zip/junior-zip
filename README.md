@@ -39,7 +39,7 @@ const aboutMe = {
   <img align= "center" alt="junior-tableau" heigth="30" width="40" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
   <img align= "center" alt="junior-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align= "center" alt="junior-npm" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> 
-  <img align= "center" alt="junior-aws" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align= "center" alt="junior-aws" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img align= "center" alt="junior-docker" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align= "center" alt="junior-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align= "center" alt="junior-spring" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
@@ -47,7 +47,7 @@ const aboutMe = {
   <img align= "center" alt="junior-grafana" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
   <img align= "center" alt="junior-maven" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 
-          
+                    
           
  <a href="https://github.com/junior-zip" target="_blank" ><img align="right" src="https://cdn.discordapp.com/attachments/532009897257074688/1133435836558495805/imagem2.gif" height="150">
 </div>
